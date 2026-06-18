@@ -1,3 +1,2 @@
 steamlit
 openai
-gemini api key
